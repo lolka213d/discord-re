@@ -123,4 +123,4 @@ async def cmd_create_menu(interaction: discord.Interaction):
 
 
 # ==================== ЗАПУСК ====================
-bot.run("MTMzMTQ2ODU5NzI1NTQ3NTIzMw.GPI_jG.8O6hswhRkZ6VjIMUAmz_NhGP6WN8G5_UJNGbBk")
+bot.run("MTMzMTQ2ODU5NzI1NTQ3NTIzMw.Gm-lpD.SJMdvuLARTI5aYnx8J8a-KsTi1P7CpwvoUXPVA")
